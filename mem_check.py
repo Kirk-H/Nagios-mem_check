@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 #Header Info
-__author__ = 'Kirk Hammond'
-__email__ = 'kirkdhammond@gmail.com'
+__author__ = 'Splix76'
+__email__ = 'splixseventysix@gmail.com'
 __license__ = 'GPLv3'
 
 
